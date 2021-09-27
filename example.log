@@ -1,0 +1,12 @@
+WARNING:root:This iteration is [0, 1, 1]
+WARNING:root:This iteration is [0, 1, 1, 2]
+WARNING:root:This iteration is [0, 1, 1, 2, 3]
+WARNING:root:This iteration is [0, 1, 1, 2, 3, 5]
+WARNING:root:This iteration is [0, 1, 1, 2, 3, 5, 8]
+WARNING:root:This iteration is [0, 1, 1, 2, 3, 5, 8, 13]
+WARNING:root:This iteration is [0, 1, 1, 2, 3, 5, 8, 13, 21]
+WARNING:root:This iteration is [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+WARNING:root:This iteration is [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
+WARNING:root:This iteration is [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+WARNING:root:This iteration is [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144]
+WARNING:root:This is the last iteration
