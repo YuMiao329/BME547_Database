@@ -24,7 +24,11 @@ def get_blood_type_inventory(db, blood_type):
             wrong += 1
             print("There are now a total of {} patients".format(wrong))
 
+<<<<<<< HEAD
             return count, wrong
+=======
+    return count, wrong
+>>>>>>> fcdac9da89dc6c2f57f49469ef5e3866688a4178
 
 
 def main():
